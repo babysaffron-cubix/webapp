@@ -1,0 +1,5 @@
+@use "styles/variables.scss" as v;
+
+.button {
+    padding: v.$padding-3;
+}

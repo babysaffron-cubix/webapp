@@ -1,0 +1,23 @@
+$padding-1: 5px;
+$padding-2: 8px;
+$padding-3: 10px;
+$padding-4: 12px;
+$padding-5: 15px;
+
+// MIN-WIDTH BREAKPOINTS
+//to be used on @media(min-width:<<breakpoint>>){}
+$min-breakpoint-xs: 0;
+$min-breakpoint-sm: 576px;
+$min-breakpoint-md: 768px;
+$min-breakpoint-lg: 992px;
+$min-breakpoint-xl: 1200px;
+$min-breakpoint-xxl: 1600px;
+
+// MAX-WIDTH BREAKPOINTS
+//to be used on @media(max-width:<<breakpoint>>){}
+$max-breakpoint-xs: 0;
+$max-breakpoint-sm: 575px;
+$max-breakpoint-md: 767px;
+$max-breakpoint-lg: 991px;
+$max-breakpoint-xl: 1199px;
+$max-breakpoint-xxl: 1599px;
